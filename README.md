@@ -6,7 +6,7 @@
 
 <h2 align="center">Template!</h1>
 <p align="center">
-  <img width="400" src="template.png">
+  <img width="400" src="template.svg">
 </p>
 
 ## FAQ
