@@ -28,4 +28,4 @@ He an aussie guy from the Unixporn Community
 
 ### Also check the original ElKontest star kiwmi
 [ElKontest](https://github.com/druskus20/elkontest)
-[Kiwmi](https://github.com/buffet/kiwmi)
+[Kiwmi](https://github.com/buffet/kiwmi) or [Oyster](https://github.com/buffet/oyster) or both idk. Star [Buffet](https://github.com/buffet)
