@@ -26,6 +26,7 @@ He an aussie guy from the Unixporn Community
 2. NSFW submissions are not allowed. 
 3. Mods are allowed to grade submissions based on whatever criteria they find suitable.
 
-### Also check the original ElKontest star kiwmi
+### Also check the original ElKontest 
 [ElKontest](https://github.com/druskus20/elkontest)
-[Kiwmi](https://github.com/buffet/kiwmi) or [Oyster](https://github.com/buffet/oyster) or both idk. Star [Buffet](https://github.com/buffet)
+
+And star [Kiwmi](https://github.com/buffet/kiwmi)... or [Oyster](https://github.com/buffet/oyster)... or both idk. Star [Buffet](https://github.com/buffet) tbh
