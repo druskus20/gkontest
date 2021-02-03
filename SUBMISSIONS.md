@@ -12,7 +12,7 @@
 <p align="center">
     <img width="400" src="kontest/pogk.png">
     <br>
-    <a>By: gk</a>
+    <a>By: snakedeye</a>
 </p>
 
 <h2 align="center">Honorable Mentions</h2>
