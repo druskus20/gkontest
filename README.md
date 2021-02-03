@@ -8,9 +8,9 @@
 <p align="center">
   <img width="400" src="template.svg">
 </p>
-Also here it is a png version, although It would be preferable to use the svg one:
+Also here it is a png version, although It would be preferable to use the svg one
 
-[gk](https://raw.githubusercontent.com/druskus20/gkontest/master/alt-template.png)
+[this](https://raw.githubusercontent.com/druskus20/gkontest/master/alt-template.png)
 
 ## FAQ
 #### What is all of this about?
